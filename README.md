@@ -1,4 +1,4 @@
-# Dropyacht's Principal Frontend Assessment
+# Frontend Assessment
 
 ## Description
 
